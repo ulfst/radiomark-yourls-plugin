@@ -1,0 +1,1 @@
+A plugin for the YOURLS URL shortener, made for the diploma thesis project "Radiomark" by Ulf Stoffels
